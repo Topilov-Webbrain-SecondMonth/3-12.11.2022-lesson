@@ -30,3 +30,18 @@
 // console.log(2 == 100) // false
 // console.log(2 == 2) // true
 // console.log(2 === 2) // true
+
+
+// Daraja
+console.log(2 ** 3) // 8
+
+// Qoldiq
+console.log(20 % 6) // 2
+
+// OR
+console.log(false || false || true || false) // true
+// OR da natija true chiqishi uchun 1 tasi true bo`lishi yetarli, false chiqishi uchun hammasi false chiqishi kerak
+
+// AND
+console.log(true && false && true && true && true && true) // false
+// AND da natija true chiqishi uchun hammasi true bo`lishi kerak, false chiqishi uchun  bittasi false bo`lishi yetarli
